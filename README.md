@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
   <h1>🚀 FastSeller</h1>
   <p><b>Venda mais. Opere menos.</b></p>
   <p>A plataforma completa de Dropshipping multi-marketplace que conecta produtos, sellers e marketplaces em um só lugar.</p>
@@ -25,7 +25,7 @@ Nossa infraestrutura permite que você escale sua operação de forma nativa e r
 
 | Mercado Livre | Shopee | Shein | TikTok Shop |
 | :---: | :---: | :---: | :---: |
-| <img src="https://logospng.org/download/mercado-livre/logo-mercado-livre-icon-1024.png" width="50" alt="Mercado Livre"> | <img src="https://logospng.org/download/shopee/logo-shopee-icon-1024.png" width="50" alt="Shopee"> | <img src="https://logospng.org/download/shein/logo-shein-2048.png" width="50" alt="Shein"> | <img src="https://logospng.org/download/tiktok/logo-tiktok-icon-1024.png" width="50" alt="TikTok"> |
+| <img src="https://logospng.org/download/mercado-livre/logo-mercado-livre-1024.png" width="50" alt="Mercado Livre"> | <img src="https://logospng.org/download/shopee/logo-shopee-icon-1024.png" width="50" alt="Shopee"> | <img src="https://logospng.org/download/shein/logo-shein-1024.png" width="50" alt="Shein"> | <img src="https://logospng.org/download/tiktok/logo-tiktok-1024.png" width="50" alt="TikTok"> |
 
 ---
 
